@@ -2,7 +2,7 @@
 
 ## About
 
-File and Folder Management for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/). 8/15/23 test
+File and Folder Management for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 

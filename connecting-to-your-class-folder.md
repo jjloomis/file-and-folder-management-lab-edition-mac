@@ -4,7 +4,7 @@ Two methods for connecting to your class folder are listed below (you only need 
 
 ### Link to class folders
 
-1. Click [this link](smb://ad.uwm.edu/Shares/\_U\_LS/Courses/JAMS) to connect to your class folder using a JAMS Lab or CCL Mac.
+1. [Click here to connect to your class folder](smb://ad.uwm.edu/Shares/\_U\_LS/Courses/JAMS) using a JAMS Lab or CCL Mac.
 2. Your browser will ask if you would like to proceed. Click the affirmative option (**Open Finder**, **Yes**, **Launch Application**, etc.)
 3. A dialog box will appear. Enter your ePanther password and click **Connect**. The **JAMS drive** will appear on your **Desktop**.
 4. [Navigate to your class folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree).

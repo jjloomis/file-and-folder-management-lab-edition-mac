@@ -4,12 +4,12 @@ Think of a folder tree as an upside down tree. The starting point of a drive (li
 
 To go back up in the folder tree, you can use the **back** button in a Finder window.
 
-* To navigate to your class folder, open a **Finder** window. Go to **Shared** (on the left) and select **ufiles.uwm.edu**. The root of the drive will display in the **Finder** window.
+* To navigate to your class folder, open a **Finder** window. Go to **Locations** (on the left) and select **ad.uwm.edu**. The root of the drive will display in the **Finder** window.
 *   You may need to drill down in the folder tree to navigate to where you need to be. Double-click a folder to drill down in the folder tree. The path (sequence of folders) to your class folder is: \
     \
 
 
-    `Courses/JAMS/Course-Number/Lastname-Firstname`
+    `Shares/_U_LS/Courses/JAMS/Course-Number/Lastname-Firstname`
 
     \
 

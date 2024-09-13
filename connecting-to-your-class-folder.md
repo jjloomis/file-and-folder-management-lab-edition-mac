@@ -1,6 +1,8 @@
 # Connecting to Your Class Folder
 
-Two methods for connecting to your class folder are listed below (you only need to use one of them.)&#x20;
+Two methods for connecting to your class folder are listed below (you only need to use one of them.)
+
+{% embed url="https://youtu.be/TkhMZQ78RXU" %}
 
 ### Link to class folders
 
